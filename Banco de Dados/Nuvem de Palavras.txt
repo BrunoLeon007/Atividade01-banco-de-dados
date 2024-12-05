@@ -1,0 +1,39 @@
+Modelagem e Programação de Banco de Dados
+
+Cursos Superiores e Técnicos
+
+1) Modelagem de Dados
+2) Programação de Banco de Dados
+3) Administração e Gerencimento de Banco de Dados
+
+Dados = são elementos sem sentido ou relevância.
+Informação = Conjunto de dados que possui relevância ou sentido.
+Conhecimento = Analise em cima das informações recebidas.
+Inteligência = Tomada de ação em cima do conhecimeto gerado.
+Sabedoria = feedback, retorno, analise e internalização das atitudes tomadas.
+
+Banco de Dados?
+Local utilizado para armazeamento de dados estruturados em tabelas, arquivos ou agrupamento de dados.
+
+Data Base
+
+DBMS => Data Base System Management => Sistema Gerenciador de Banco de Dados(SGBD)
+
+Software que efetua a manipulação dos dados a serem armazenados e armazenados.
+
+SGBDR => Sistema Gerenciador de Banco de Dados Relacional DBMSR
+
+SGBD
+
+DBA => Data Base Administrator
+
+Modelagem de Dados
+
+1) Modelo Conceitual MER(Modelo de Entidade e Relacionamento)
+2) Modelo Lógico DER (Diagrama de Entidade e Relacionamento) 
+3) Modelo Fisíco Query's
+
+1) Está no campo das ideias, normalmente o cliente nos auxilia a entender as suas necessidades(Requisitos).
+2) Criar modelos com tipos de dados e as tabelas que serão desenvolvidas pelos relacionamentos entre as tabelas. Normalmente o cliente precisa de auxilio para entender.
+3) A construção das instruções que serão utilizadas para a criação do Banco de Dados e das tabelas.
+
